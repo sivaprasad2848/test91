@@ -1,5 +1,6 @@
 Git Collaboration
 --------------------
+git status :- Check is there is any file pending for push
 
 echo "# test91" >> README.md
 
@@ -28,11 +29,22 @@ How to collaborate
 	Select "Collaborators " Menu from left panel
 
 	 
-------------------------------------
-For Cloning a git repo you can use
+git clone https://github.com/sivaprasad2848/test91.git
 
-git clone <repo url>
+git branch:- For listing local branch
+git branch --all :-List all branch local+remote
+
+For creating new branch (local)
+git checkout -b <branch-name>
 
 
+
+
+
+
+
+
+
+ 
 
 
