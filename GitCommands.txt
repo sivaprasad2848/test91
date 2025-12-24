@@ -28,7 +28,10 @@ How to collaborate
 	Select "Collaborators " Menu from left panel
 
 	 
+------------------------------------
+For Cloning a git repo you can use
 
+git clone <repo url>
 
 
 
