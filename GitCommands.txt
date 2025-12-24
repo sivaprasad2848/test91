@@ -1,0 +1,35 @@
+Git Collaboration
+--------------------
+
+echo "# test91" >> README.md
+
+git init
+
+
+git add README.md
+
+
+git commit -m "first commit"
+
+
+git branch -M main
+
+
+git remote add origin https://github.com/sivaprasad2848/test91.git
+
+git push -u origin main
+--------------------------------
+
+How to collaborate 
+	Invite your team members by using collaboration
+
+
+	Use->Settings-> On Tab
+	Select "Collaborators " Menu from left panel
+
+	 
+
+
+
+
+
